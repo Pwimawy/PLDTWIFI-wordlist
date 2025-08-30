@@ -22,7 +22,7 @@ You can either **generate it yourself with Python 3** or **download the pre-made
 
 2. Run the generator script:  
    ```bash
-   python3 wordlist_gen.py
+   python3 wordlistgenerator.py
    ```
 
 3. This will create a file:  
