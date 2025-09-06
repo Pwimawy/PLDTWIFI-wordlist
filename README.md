@@ -3,7 +3,7 @@
 ⚠️ **Disclaimer**  
 This project is provided **strictly for educational and authorized security testing purposes only**.  
 - It must **only** be used in environments where you have **explicit permission** (e.g., your own network, lab setups, or client networks with written consent).  
-- Unauthorized access to computer systems, WiFi networks, or accounts is **illegal** under the [Cybercrime Prevention Act of 2012 (RA 10175)]
+- Unauthorized access to computer systems, WiFi networks, or accounts is **illegal** under the [Cybercrime Prevention Act of 2012 (RA 10175)](https://www.officialgazette.gov.ph/2012/09/12/republic-act-no-10175/).
 - The author does **not condone or take responsibility** for any misuse of this material.  
 - By using this project, you agree that **you are solely responsible** for your actions.  
 
