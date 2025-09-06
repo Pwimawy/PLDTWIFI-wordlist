@@ -1,10 +1,16 @@
 # 📶 PLDT WiFi Wordlist
 
 ⚠️ **Disclaimer**  
-This project is for **educational and research purposes only**.  
-I do **not condone or take responsibility** for any misuse of this wordlist.  
-**Do not use it for unauthorized access, hacking, or any illegal activity.**  
-You are solely responsible for how you use this material.  
+This project is provided **strictly for educational and authorized security testing purposes only**.  
+- It must **only** be used in environments where you have **explicit permission** (e.g., your own network, lab setups, or client networks with written consent).  
+- Unauthorized access to computer systems, WiFi networks, or accounts is **illegal** under the [Cybercrime Prevention Act of 2012 (RA 10175)]
+- The author does **not condone or take responsibility** for any misuse of this material.  
+- By using this project, you agree that **you are solely responsible** for your actions.  
+
+This wordlist is intended as a **pentesting and red team resource** to help:  
+- Identify weak/default credentials on WiFi routers.  
+- Raise awareness of insecure configurations.  
+- Support research in improving security practices.
 
 ---
 
@@ -53,7 +59,19 @@ If you don’t want to generate it yourself:
 
 ---
 
-## 👨‍💻 Made By
+## 👨‍💻 Author
 
-Made by **PWIMAWY**  
-#HappyHacking
+Created by **PWIMAWY**  
+For security research and penetration testing awareness.
+
+---
+
+## ✅ Ethical Use Reminder
+
+Use this wordlist only in lawful scenarios, such as:  
+- Security assessments of your own PLDT WiFi router.  
+- Pentesting labs or Capture The Flag (CTF) competitions.  
+- Authorized penetration testing engagements.  
+
+🚫 **Never use this tool for unauthorized access or malicious purposes.**  
+Doing so may result in criminal liability under Philippine law.
